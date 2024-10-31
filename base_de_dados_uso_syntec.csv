@@ -1,0 +1,11 @@
+﻿ID,Usuário,Data/Hora,Operação,Ferramenta
+90000000001165294413,João Pedro de Campos da Silva,24/10/24 8:11,Empréstimo,Chave estrela
+90000000000488115266,Bruno de Souza de Oliveira,24/10/24 : 8:10,Empréstimo,Martelo
+90000000000488115266,Bruno de Souza de Oliveira,24/10/24 : 8:10,Empréstimo,Arco de Serra
+90000000000998905473,Lucas Souza Rodrigues,24/10/24 : 8:13,Empréstimo,Chave de fenda
+90000000000998905473,Lucas Souza Rodrigues,24/10/24 : 8:13,Empréstimo,Martelo de borracha
+90000000000488115266,Bruno de Souza de Oliveira,24/10/24 : 9:32,Devolução,Martelo
+90000000001165294413,João Pedro de Campos da Silva,24/10/24 9:42,Devolução,Chave estrela
+90000000001165294413,João Pedro de Campos da Silva,24/10/24 9:42,Empréstimo,Martelo
+90000000000998905473,Lucas Souza Rodrigues,24/10/24 : 10:57,Devolução,Martelo de borracha
+90000000001165294413,João Pedro de Campos da Silva,24/10/24 11:03,Devolução,Martelo

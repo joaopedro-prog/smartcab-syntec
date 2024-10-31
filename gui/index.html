@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Syntec</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="glass-header">
+        <img src="images/id/syntec_logotipo_white.png" alt="syntec-logo" class="header-logo">
+        <div class="header-spacer"></div>
+        <h2>SmartCab</h2>
+    </header>
+
+    <div class="sub-header">
+        <div class="search-container" id="search-container">
+            <div>
+                <img src="images/icons/search.svg" alt="Ícone de Pesquisa" class="search-icon">
+                <input type="text" placeholder="Buscar uma ferramenta" class="glass search-bar" id="search-bar">
+            </div>
+        </div>
+
+        <h3 id="acess-text">
+            Armário liberado! Pegue as ferramentas. <br>Não se esqueça de fechar o armário após pegá-las.
+        </h3>
+
+
+    </div>
+
+    <div class="content">
+
+
+        <div class="tools-div">
+            <h3 class="card-title">Ferramentas</h3>
+
+            <div id="tools-container" class="tools-container glass">
+                <div class="tool glass-transparent">
+                    <img src="images/tools/martelo_bola.webp" alt="Martelo Bola">
+                    <p>default_tool<br><span>Localização: default_local</span></p>
+                        <div class="border_available"></div>
+                </div>
+            </div>
+
+
+        </div>
+
+
+        <div class="live-info">
+            <div class="camera-container">
+                <h3 class="card-title">Câmera</h3>
+                <div class="camera-feedback glass">
+                    <img src="" alt="" srcset="" id="video_image">
+                </div>
+            </div>
+            
+            <div class="user-info glass">
+                <img src="images/users/user-photo.jpg" alt="user-photo" id="user-photo" srcset=""
+                style="aspect-ratio: 1/1;">
+
+                <div class="user-data">
+                    <p id="user-name">Aguardando usuário</p>
+                    <p id="user-cardid">Seja muito bem vindo(a)!</p>
+                </div>
+            </div>
+
+            <div class="support-button-div">
+                <button class="glass" id="support-button">
+                    Suporte
+                </button>
+            </div>
+
+        </div>
+
+
+
+    </div>
+
+    <div class="pop_up_div glass" id="pop_up_div">
+        <img src="images/icons/exit.svg" id="exit-button" class="exit_icon">
+        <div class="pop_up_container">
+            <button class="support-button glass-transparent">Ferramenta quebrada</button>
+            <button class="support-button glass-transparent">Ferramenta perdida</button>
+            <button class="support-button glass-transparent">Contatar  suporte</button>
+        </div>
+    </div>
+
+    
+</body>
+<script src="script.js"></script>
+</html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="127mm" height="127mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 12700 12700"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:url(#id0);fill-rule:nonzero}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="1193.44" y1="2576.91" x2="11506.6" y2="10123.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#B07A32"/>
+   <stop offset="0.529412" style="stop-opacity:1; stop-color:#FBEE86"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#B07A32"/>
+  </linearGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="2540,2540 2540,5080 8148,5080 7011,7620 10160,7620 10160,10160 2139,10160 1137,10160 0,12700 2139,12700 9230,12700 12700,12700 12700,5080 8148,5080 5779,5080 4642,7620 0,7620 0,0 3470,0 10463,0 12700,0 11563,2540 "/>
+ </g>
+</svg>
